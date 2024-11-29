@@ -1,0 +1,14 @@
+C:\Users\HasenkrugAlexander\source\repos\Übungen\AE-Übung\Lotto\bin\Debug\net8.0\Lotto.exe
+C:\Users\HasenkrugAlexander\source\repos\Übungen\AE-Übung\Lotto\bin\Debug\net8.0\Lotto.deps.json
+C:\Users\HasenkrugAlexander\source\repos\Übungen\AE-Übung\Lotto\bin\Debug\net8.0\Lotto.runtimeconfig.json
+C:\Users\HasenkrugAlexander\source\repos\Übungen\AE-Übung\Lotto\bin\Debug\net8.0\Lotto.dll
+C:\Users\HasenkrugAlexander\source\repos\Übungen\AE-Übung\Lotto\bin\Debug\net8.0\Lotto.pdb
+C:\Users\HasenkrugAlexander\source\repos\Übungen\AE-Übung\Lotto\obj\Debug\net8.0\Lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HasenkrugAlexander\source\repos\Übungen\AE-Übung\Lotto\obj\Debug\net8.0\Lotto.AssemblyInfoInputs.cache
+C:\Users\HasenkrugAlexander\source\repos\Übungen\AE-Übung\Lotto\obj\Debug\net8.0\Lotto.AssemblyInfo.cs
+C:\Users\HasenkrugAlexander\source\repos\Übungen\AE-Übung\Lotto\obj\Debug\net8.0\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\HasenkrugAlexander\source\repos\Übungen\AE-Übung\Lotto\obj\Debug\net8.0\Lotto.dll
+C:\Users\HasenkrugAlexander\source\repos\Übungen\AE-Übung\Lotto\obj\Debug\net8.0\refint\Lotto.dll
+C:\Users\HasenkrugAlexander\source\repos\Übungen\AE-Übung\Lotto\obj\Debug\net8.0\Lotto.pdb
+C:\Users\HasenkrugAlexander\source\repos\Übungen\AE-Übung\Lotto\obj\Debug\net8.0\Lotto.genruntimeconfig.cache
+C:\Users\HasenkrugAlexander\source\repos\Übungen\AE-Übung\Lotto\obj\Debug\net8.0\ref\Lotto.dll
